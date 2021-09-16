@@ -3,9 +3,9 @@ My MATLAB codes for various physics problems
 
 Here you can find my MATLAB implementation for set of various physics and math problems. Most of them are dedicated to aerodynamics and plasma physics
 
-motion.m - is a function, which solves Newton-Lorentz equation for charged particles using nuverical integration by Runge-Kutta method
+motion.m - is a function, which solves Newton-Lorentz equation for charged particles using numerical integration by Runge-Kutta method
 
-poloidal_field_2.m - is a function, which calculates magnetic field of  a current loop, using elliptic integrals
+poloidal_field_2.m - is a function, which calculates magnetic field of a current loop, using elliptic integrals
 
 Graphs.m - is a program, which creates and plots the magnetic fields constituents distribution around tokamak
 
