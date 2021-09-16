@@ -14,4 +14,4 @@ Newton_Lorentz.m - is a program, which uses motion.m function to visualize only 
 Magnetic_final_T15.m - is a program, which uses poloidal_field_2.m function to calculate and visualize magnetic forcelines destribution insine and outside a tokamak
 
 Newton_Lorentz_many_parts.m - is a program, which uses motion.m function to visualize charged particles beam trajectory inside a neutral beam injector. Moreover, it calculates
-beam deviation in degrees and calculates the optimal koefficient to decrease magnetic field impact.
+beam deviation in degrees and calculates the optimal сoefficient to decrease magnetic field impact.
